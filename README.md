@@ -1,4 +1,4 @@
-<h1 align="center">Portifólio - Lucyan 💻</h1>
+<h1 align="center">Portifólio - Victor Mattos 💻</h1>
 
 ![Imagem do projeto finalizado](assets/images/projects/portifolio.png)
 
@@ -43,10 +43,10 @@ Neste projeto apliquei os seguintes pontos:
 <table>
   <tr>
     <td>
-      <img src="https://github.com/lucyanovidio.png" width="100px" />
+      <img src="https://github.com/victormattos564.png" width="100px" />
     </td>
     <td>
-      Feito por <a href="https://github.com/lucyanovidio">Lucyan Ovídio.</a> 🙋🏿‍♂️
+      Feito por <a href="https://github.com/victormattos564">Victor Mattos.</a> 😎
     </td>
   </tr>
 </table>
