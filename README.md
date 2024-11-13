@@ -2,7 +2,7 @@
 
 ![Imagem do portfolio](assets/images/projects/portifolio.png)
 
-<h4 align="center"><a href="https://victormattos.vercel.app">Confira o projeto aqui</a></h4>
+<h4 align="center"><a href="https://portifolio-profissional-wine.vercel.app/">Confira o projeto aqui</a></h4>
 
 ---
 
