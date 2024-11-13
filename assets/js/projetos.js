@@ -5,14 +5,14 @@ function projetos(section) {
     <div class="content">
       <div class="cards">
         <div class="card">
-          <h3>Orange Evolution</h3>
+          <h3>X-Devs</h3>
           <div class="img-wrapper">
             <img
-              src="./assets/images/projects/orange-evolution.gif"
-              alt="GIF do projeto Orange Evolution."
+              src="./assets/images/x-devs.gif"
+              alt="GIF do projeto X-Devs."
             />
             <div class="buttons">
-              <a href="https://github.com/squad-30/OrangeEvolution-Squad30" target="_blank" title="Repositório no Github">
+              <a href="https://github.com/victormattos564/X-Devs" target="_blank" title="Repositório no Github">
                 <svg
                   xmlns="http://www.w3.org/2000/svg"
                   viewBox="0 0 24 24"
@@ -26,7 +26,7 @@ function projetos(section) {
                   />
                 </svg>
               </a>
-              <a href="https://orangeevolution-squad30.up.railway.app" target="_blank" title="Ver Projeto">
+              <a href="https://x-devs.vercel.app/" target="_blank" title="Ver Projeto">
                 <svg
                   xmlns="http://www.w3.org/2000/svg"
                   viewBox="0 0 24 24"
@@ -42,9 +42,9 @@ function projetos(section) {
             </div>
           </div>
           <p>
-            Plataforma de estudos desenvolvida na Hackathon do Programa de Formação 4 da FCamara.
+          O Projeto X-Devs é uma aplicação que apresenta personagens fictícios relacionados ao mundo da programação. Cada personagem possui uma história única e características que refletem diferentes aspectos da cultura e desafios enfrentados pelos desenvolvedores.
           </p>
-          <p>HTML - CSS - JS - NodeJS - Express - SQLite</p>
+          <p>HTML - CSS - JS - NodeJS</p>
         </div>
         <div class="card">
           <h3>Desafio 21 dias de código</h3>
