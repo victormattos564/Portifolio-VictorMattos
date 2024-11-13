@@ -86,7 +86,7 @@ function projetos(section) {
         <div class="card">
           <h3>C3-News</h3>
           <div class="img-wrapper">
-            <img src="./assets/images/projects/C3-News" alt="Imagem do projeto." />
+            <img src="./assets/images/projects/C3-News.png" alt="Imagem do projeto." />
             <div class="buttons">
               <a href="https://github.com/victormattos564/C3-News" target="_blank" title="Repositório no Github">
                 <svg
@@ -117,15 +117,15 @@ function projetos(section) {
               </a>
             </div>
           </div>
-          <p>Página de contato para consultas desenvolvida para cliente.</p>
+          <p>Página de Notícias C3-News feita no evento da Sprint do Curso.</p>
           <p>HTML - CSS - JS</p>
         </div>
         <div class="card">
-          <h3>Doctor Care</h3>
+          <h3>To-Do-List</h3>
           <div class="img-wrapper">
-            <img src="./assets/images/projects/doctorcare.gif" alt="Imagem do projeto." />
+            <img src="./assets/images/projects/todolist.png" alt="Imagem do projeto." />
             <div class="buttons">
-              <a href="https://github.com/lucyanovidio/doctorcare" target="_blank" title="Repositório no Github">
+              <a href="https://github.com/victormattos564/To-do-List" target="_blank" title="Repositório no Github">
                 <svg
                   xmlns="http://www.w3.org/2000/svg"
                   viewBox="0 0 24 24"
@@ -139,7 +139,7 @@ function projetos(section) {
                   />
                 </svg>
               </a>
-              <a href="https://lucyanovidio.github.io/doctorcare/" target="_blank" title="Ver Projeto">
+              <a href="https://to-do-list-pi-pearl.vercel.app/" target="_blank" title="Ver Projeto">
                 <svg
                   xmlns="http://www.w3.org/2000/svg"
                   viewBox="0 0 24 24"
@@ -154,15 +154,15 @@ function projetos(section) {
               </a>
             </div>
           </div>
-          <p>Projeto de site desenvolvido na Next Level Week Return da Rocketseat.</p>
+          <p>Projeto iniciante To-Do-List</p>
           <p>HTML - CSS - JS</p>
         </div>
         <div class="card">
           <h3>Meu Portifólio</h3>
           <div class="img-wrapper">
-            <img src="./assets/images/projects/portifolio.gif" alt="Imagem do projeto." />
+            <img src="./assets/images/projects/portifolio.png" alt="Imagem do projeto." />
             <div class="buttons">
-              <a href="https://github.com/lucyanovidio/portifolio" target="_blank" title="Repositório no Github">
+              <a href="https://github.com/victormattos564/Portifolio-profissional" target="_blank" title="Repositório no Github">
                 <svg
                   xmlns="http://www.w3.org/2000/svg"
                   viewBox="0 0 24 24"
@@ -176,7 +176,7 @@ function projetos(section) {
                   />
                 </svg>
               </a>
-              <a href="https://lucyanovidio.vercel.app" target="_blank" title="Ver Projeto">
+              <a href="https://portifolio-profissional-wine.vercel.app/" target="_blank" title="Ver Projeto">
                 <svg
                   xmlns="http://www.w3.org/2000/svg"
                   viewBox="0 0 24 24"
