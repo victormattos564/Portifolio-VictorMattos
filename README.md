@@ -29,14 +29,7 @@ O site **ainda está em desenvolvimento**, pois estou em constante aprendizado. 
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
 </div>
 
-<table>
-  <tr>
-  <td>
-    <img src="https://github.com/victormattos564.png" width="100px" />
-  </td>
-  
-  </tr>
-</table>
+
 
 ## 🏆 Licença
 
