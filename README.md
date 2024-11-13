@@ -34,9 +34,7 @@ O site **ainda está em desenvolvimento**, pois estou em constante aprendizado. 
   <td>
     <img src="https://github.com/victormattos564.png" width="100px" />
   </td>
-  <td>
-    Feito por <a href="https://github.com/victormattos564">Victor Mattos</a> 😎
-  </td>
+  
   </tr>
 </table>
 
